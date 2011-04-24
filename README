@@ -1,0 +1,7 @@
+requirement:
+1. dynamic create channel
+2. people can have a private chat
+3. channel can be easy controlled
+4. people only join one channel at one time.
+5. chat room have i18n
+6. video can be a plugin
